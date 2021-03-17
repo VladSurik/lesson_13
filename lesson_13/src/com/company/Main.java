@@ -12,6 +12,6 @@ public class Main {
         System.out.println(list.get(2));
         list.set(1, 123);
         System.out.println(list.size());
-        System.out.println(list); // [10, 123, 30]
+        System.out.println(list);
     }
 }
